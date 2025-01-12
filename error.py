@@ -7,3 +7,6 @@ for i in range(1000):
     b = tmp
 
 print(a)
+
+def square(x):
+    return x*x
