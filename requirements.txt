@@ -1,0 +1,3 @@
+ruff # for linting, formatting
+sphinx # for documentation
+pytest # for testing
